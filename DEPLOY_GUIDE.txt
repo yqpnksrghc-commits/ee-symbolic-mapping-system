@@ -1,0 +1,32 @@
+﻿GITHUB DEPLOYMENT
+
+1. Create GitHub repository:
+   ee-symbolic-mapping-system
+
+2. Upload ALL contents of:
+   C:\LAB\EeLaunch\14_GitHubDeploy
+
+3. In GitHub:
+   Settings -> Pages
+
+4. Set:
+   Source = Deploy from branch
+   Branch = main
+   Folder = /root
+
+5. Save
+
+6. Wait ~1 minute
+
+7. Public URL appears:
+   https://YOURNAME.github.io/ee-symbolic-mapping-system/
+
+8. Publish Gumroad product
+
+9. Replace:
+   Gumroad Link Coming Soon
+
+   with actual Gumroad URL inside:
+   index.html
+
+10. Re-upload updated index.html
